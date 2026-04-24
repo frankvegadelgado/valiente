@@ -1,5 +1,7 @@
 # The Valiente Experiment
 
+![The future has different names. For the weak, it is impossible • for the coward it is unknown • but for the brave it is ideal.](docs/brave.jpg)
+
 ## The Valiente Experiment: Hvala's Experimental Evaluation on Real-World Large Graphs
 
 Frank Vega
@@ -308,7 +310,7 @@ Key findings:
 
 [1] R. A. Rossi and N. K. Ahmed, "The Network Data Repository with Interactive Graph Analytics and Visualization," *AAAI*, 2015. [Online]. Available: https://networkrepository.com
 
-[2] F. Vega, "Hvala: Approximate Vertex Cover Solver," PyPI, 2025. [Online]. Available: https://pypi.org/project/hvala/
+[2] F. Vega, "Hvala: Approximate Vertex Cover Solver," PyPI, 2026. Release: v0.1.0. [Online]. Available: https://pypi.org/project/hvala/
 
 [3] F. Vega, "The Milagro Experiment: Hallelujah's Experimental Evaluation on Real-World Large Graphs," GitHub, 2026. [Online]. Available: https://github.com/frankvegadelgado/milagro
 
